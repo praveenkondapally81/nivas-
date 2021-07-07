@@ -1,2 +1,3 @@
+#this is a hello 
 #!/bin/bash
 echo hello world
